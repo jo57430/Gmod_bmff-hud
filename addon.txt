@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "[Studio FCS] Flat HUD"
+	"author_name" "Studio FCS [Jo57430]"
+	"info" "{ 	"description": "HUD D.RP", 	"type": "tool", 	"tags": [ 		"realism", 		"roleplay" 	] }"
+}
